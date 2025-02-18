@@ -10,5 +10,5 @@
  - ChatGPT, DeepSeek-R1, Ollama, and GroqCloud
  
 ## Sample Output
-![image](https://github.com/user-attachments/assets/9c4ba638-517e-4460-9e90-4443ee4b765e)
+![image](https://github.com/user-attachments/assets/42e9d02d-4168-4266-87b7-a4f9c759f781)
 ![image](https://github.com/user-attachments/assets/04c6c2bc-92a8-4091-8a16-d52ba7d517a7)
