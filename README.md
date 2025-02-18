@@ -1,4 +1,4 @@
-# initialRandBDetection
+# CNN Model for Carabao Mango Ripeness and Bruises Classification
 - thesis ripeness and bruise detection with pretrained models which are the resnet and the efficientnet
 ## [Dataset](https://drive.google.com/drive/folders/14JSjbf3YsboF3LuzFwkfjViGJpL8cGGz)
 - download the datasplit.zip
